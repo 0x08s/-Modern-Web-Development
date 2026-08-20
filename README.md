@@ -33,6 +33,47 @@
 
 ---
 
+# 📖✨ Quran Learning Website 🌙🕌
+
+## 🌟 About This Project
+
+📚 This is a Quran-themed website created as part of my **Web Development learning journey**. 💻✨
+
+🌙 The purpose of this project is to create a simple, peaceful, and meaningful website related to **Quran learning and study**.
+
+### 🛠️ Technologies Used
+
+🌐 HTML5  
+🎨 CSS3  
+🖼️ Images & Backgrounds  
+🧭 Navigation Bar  
+📦 Cards & Sections  
+📝 Forms  
+
+### 🎯 Project Goals
+
+📖 Create a Quran-focused learning interface  
+💻 Practice HTML & CSS concepts  
+🎨 Improve website design skills  
+🧠 Learn how different web elements work together  
+🚀 Build practical projects while learning Web Development  
+
+### 📚 Learning Journey
+
+✨ This project is a part of my continuous learning journey in **Web Development**.
+
+💡 I believe that learning becomes stronger when we **practice by building real projects**.
+
+### 🌐 Live Project
+
+🚀 👉 [View Live Project](http://127.0.0.1:3000/Extra1.html?vscode-livepreview=true)
+
+---
+
+📖 **Learn • Practice • Build • Improve** 💻✨
+
+🌙 May this project be a small step toward learning, creativity, and meaningful technology. 🤍
+
 💻 **HTML → Practice → Build → Learn → Improve** 🚀✨
 
 ⭐ Feel free to explore the project!
