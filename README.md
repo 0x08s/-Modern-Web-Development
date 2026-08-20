@@ -1,32 +1,40 @@
 # -Modern-Web-Development
 🌐 **Web Development Journey** 🚀 | Exploring HTML5, CSS3 &amp; JavaScript 💻 Building responsive, user-friendly websites, practicing real-world projects, improving problem-solving skills, and sharing my learning journey through clean code, creativity, and continuous growth. ✨
 
+# 🌐 Modern Web Development 💻✨
 
-# 📖 Quran Website
+## 📚 HTML Tags Practice Project 🧑‍💻
 
-✨ This is a Quran-themed website created using **HTML**.
+🚀 This project is created using **HTML5** to practice and understand different HTML tags and their uses.
 
-## 💻 About the Project
+### 🛠️ What I Practiced
 
-I built this project to practice my **HTML skills** and understand how a real website is structured.
+✨ Headings  
+📝 Paragraphs  
+🔗 Links  
+🖼️ Images  
+📋 Lists  
+📊 Tables  
+📝 Forms  
+🔘 Buttons  
+📦 Div & Sections  
+🎵 Audio & Video  
+🌐 Semantic HTML Tags  
 
-### 🛠️ Technologies Used
-- 🌐 HTML5
-- 📄 Semantic HTML
-- 🧭 Navigation Bar
-- 🖼️ Images
-- 📝 Forms
-- 📦 Sections & Cards
+### 🎯 Purpose
 
-## 🌐 Live Project
+📖 The main purpose of this project is to strengthen my **HTML fundamentals** and understand how different HTML elements work together to create a webpage.
 
-👉 [View Live Project](http://127.0.0.1:3000/index.html?vscode-livepreview=true)
+💡 This is one of my practice projects in my **Web Development learning journey**.
 
-## 📚 Learning
+### 🌐 Live Project
 
-This project is part of my **Web Development learning journey**.  
-I am currently improving my HTML skills and moving forward toward **CSS and JavaScript**. 🚀
+🚀 👉 [View Live Project](http://127.0.0.1:3000/index.html?vscode-livepreview=true)
 
 ---
 
-✨ **Learning → Practicing → Building → Improving** 💻🌱
+💻 **HTML → Practice → Build → Learn → Improve** 🚀✨
+
+⭐ Feel free to explore the project!
+
+
