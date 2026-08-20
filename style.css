@@ -1,0 +1,39 @@
+body{
+
+    background-color: burlywood;
+}
+
+label{
+
+color: rgb(85, 26, 26);
+
+}
+
+input{
+
+border-color: rgb(13, 12, 4);
+
+
+}
+h1{
+
+color: red;
+
+}
+h3{
+
+color: red;
+
+}
+
+label{
+
+text-box: red;
+
+}
+
+button{
+
+height: 1cm;
+
+}

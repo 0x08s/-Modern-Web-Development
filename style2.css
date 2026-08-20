@@ -1,0 +1,30 @@
+#box1{
+
+background-color: aquamarine;
+text-align: center;
+width: 50%;
+height: %;
+justify-items: center;
+
+}
+
+div{
+
+background-color: rgb(225, 136, 34);
+text-align: center;
+width: 50px;
+height: 50px;
+justify-items: center;
+align-items: center;
+
+}
+
+body{
+
+margin: 0%;
+display:center;
+justify-items: center;
+justify-content: center;
+background-color: burlywood;
+
+}

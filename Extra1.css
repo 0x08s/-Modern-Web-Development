@@ -1,0 +1,425 @@
+body{
+
+
+color: rgb(29, 78, 5);
+background-color: black;
+
+}
+
+nav button{
+
+background-image: url(https://i.pinimg.com/1200x/27/dc/f5/27dcf5f49a9455770eabe7d0b7fdb819.jpg);
+
+color:gold;
+background-color: green;
+font-size: x-large;
+align-items: center;
+justify-content: center;
+
+
+}
+
+#button{
+
+background-color: gold;
+
+}
+
+nav{
+    
+  color: black;  
+  background-image: url(https://i.pinimg.com/1200x/27/dc/f5/27dcf5f49a9455770eabe7d0b7fdb819.jpg);
+
+
+  border-color: goldenrod;
+   border-radius:1px ;
+    border-width: 1px;
+    border-style: solid;
+    border-top-width:4px ;
+   border-bottom-width: 4px;
+    
+    
+}
+
+#front{
+
+background-image: url(https://i.pinimg.com/1200x/27/dc/f5/27dcf5f49a9455770eabe7d0b7fdb819.jpg);
+
+color: gold;
+
+align-items: center;
+justify-content: center;
+display: flex;
+text-align: center;
+font-size: x-large;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#front1{
+background-image: url(https://i.pinimg.com/1200x/27/dc/f5/27dcf5f49a9455770eabe7d0b7fdb819.jpg);
+
+align-items: center;
+justify-content: center;
+display: flex;
+text-align: center;
+color: goldenrod;
+font-size: xx-large;
+font-family: 'Times New Roman', Times, serif;
+
+
+}
+
+
+
+#front2{
+
+align-items: center;
+justify-content: center;
+
+}
+
+div button{
+
+background-color: black;
+color: gold;
+border-style: solid;
+border-color: burlywood;
+
+}
+
+#quran{
+
+
+color: aliceblue;
+background-image: url(https://i.pinimg.com/736x/97/8d/4a/978d4a198bcdb534a29ad6d049173027.jpg);
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+#intro{
+
+align-items: center;
+text-align: center;
+color: goldenrod;
+font-size: x-large;
+
+}
+
+#para{
+
+color: white;
+
+}
+
+#head{
+
+}
+
+#baby{
+
+color:goldenrod;
+
+border-style: solid;
+border-color: gold;
+
+}
+
+#surah-cards {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+#surah-cards {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+#child{
+
+display: flex;
+flex-direction: row;
+gap: 10px;
+
+}
+
+#baby1{
+    width: 250px;
+    height: 100px;
+    background-color: rgb(40, 39, 39);
+
+    border: 2px solid black;
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  
+    color: wheat;
+}
+
+
+#baby2{
+    width: 250px;
+    height: 100px;
+     background-color: rgb(40, 39, 39);
+
+    border: 2px solid rgb(6, 6, 6);
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    color: wheat;
+}
+
+#baby3{
+    width: 250px;
+    height: 100px;
+    background-color: rgb(40, 39, 39);
+
+    border: 2px solid rgb(13, 14, 13);
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+    color: wheat;
+}
+
+#child1{
+
+font-size: xx-large;
+color: gold;
+border-style: solid;
+border-color: goldenrod;
+
+}
+
+#child2{
+
+color: rgb(241, 246, 241);
+
+font-size: large;
+
+
+}
+
+#child3{
+
+color: gold;
+border-style: solid;
+width: 200px;
+height: 100px;
+font-size: large;
+align-items: center;
+justify-content: center;
+display: flex;
+
+}
+section a{
+
+color: aliceblue;
+    
+}
+
+#child4{
+
+color: rgb(232, 234, 232);
+
+}
+
+#child5{
+
+color: gold;
+border-style: solid;
+width: 200px;
+height: 100px;
+font-size: x-large;
+align-items: center;
+justify-content: center;
+display: flex;
+
+}
+section a{
+
+color: aliceblue;
+    
+}
+
+#child7{
+
+color: gold;
+border-style: solid;
+width: 200px;
+height: 100px;
+font-size: x-large;
+align-items: center;
+justify-content: center;
+display: flex;
+
+}
+
+#child6{
+
+color: white
+
+}
+
+#child9{
+
+color: gold;
+border-style: solid;
+width: 200px;
+height: 100px;
+font-size: large;
+align-items: center;
+justify-content: center;
+display: flex;
+
+}
+
+
+#child8{
+
+color: rgb(232, 238, 232)
+
+}
+
+#Ayah{
+
+gap: 500px;
+
+background-repeat: no-repeat;
+background-size: cover;
+background-image: url(https://i.pinimg.com/1200x/1c/55/e0/1c55e0b6ddb456983c002fc02da97dfd.jpg);
+
+}
+
+#start{
+
+color: gold;
+font-size: xx-large;
+align-items: center;
+justify-content: center;
+display: flex;
+border-style:solid ;
+
+}
+
+#start2{
+
+width: 300px;
+height: 200px;
+justify-content: center;
+align-items: center;
+display: flex;
+color: gold;
+flex-direction: row;
+font-size: larger;
+border-style:solid ;
+border-color: green;
+}
+
+#start3{
+
+width: 300px;
+height: 200px;
+justify-content: center;
+align-items: center;
+display: flex;
+color: gold;
+font-size: larger;
+flex-direction: row;
+border-style:solid ;
+border-color: green;
+
+}
+
+#sawera{
+
+gap: 40px;    
+justify-content: center;
+align-items: center;
+display: flex;
+
+
+}
+
+
+
+#Dus{
+
+gap: 100px;
+
+color: goldenrod;
+align-items: center;
+justify-content: center;
+
+
+}
+
+#sawera1{
+
+color: white;
+
+
+}
+
+#sawera2{
+
+
+color:white;
+
+
+}
+
+#sawera3{
+
+color: goldenrod;
+font-size: large;
+
+}
+
+#last{
+
+color: white;
+
+
+}
+
+#para1{
+
+
+color: pink;
+font-size: large;
+
+gap:40px ;
+
+}
+
+#Card7 {
+    width: 400px;
+    padding: 30px;
+    margin: 50px auto;
+
+    border: 2px solid green;
+    border-radius: 15px;
+}
+
+
+
